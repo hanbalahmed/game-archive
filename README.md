@@ -1,2 +1,3 @@
 - cs 1.6 (with skins): https://drive.google.com/file/d/14KJ61mw_YWBr5fZHiBBUgtEDTIoXQCyt/view
 - cs:s (cs source + with skins): https://drive.google.com/file/d/1F9TGVrFEHjh8jarZDB82Lzk373SYk2Iw/view?usp=sharing
+- minecraft story mode: https://steamunlocked.net/6-minecraft-story-mode-a-telltale-games-series-free-download/
